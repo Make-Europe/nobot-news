@@ -17,4 +17,4 @@ Nobot.News can also provide individualized emails, allowing anyone to become a t
 
 # Status
 Actively looking for team members. 
-Wanted: Marketing, Editing, Starknet Ideas
+Wanted: Marketing, Editing, Starknet Ideas, DAO expertise
